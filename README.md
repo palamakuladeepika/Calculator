@@ -185,5 +185,5 @@ function updateDisplay() {
 
 ```
 ### Output:
-![Image](one.png)
-![Image2](two.png)
+![Image](image1.png)
+![Image2](image2.png)
